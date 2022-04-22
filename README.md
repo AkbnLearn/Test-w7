@@ -7,7 +7,7 @@ _35 group third test project_
 
 This project is for **educational** porpuses only.
 
-Site published at: 
+Site published at: https://akbnlearn.github.io/Test-w7/
 
 ## Project features
 
